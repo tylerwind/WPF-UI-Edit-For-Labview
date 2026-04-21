@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = PIDDesigner.App
+build_property.ProjectDir = D:\Tyler\公众号\画图界面\src\PIDDesigner.App\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

@@ -1,0 +1,15 @@
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\bin\Debug\net48\PIDDesigner.Runtime.dll
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\bin\Debug\net48\PIDDesigner.Runtime.pdb
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\PIDDesigner.Runtime.csproj.AssemblyReference.cache
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\Controls\PumpControl.baml
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\Controls\PumpControl.g.cs
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\PIDDesigner.Runtime_MarkupCompile.cache
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\PIDDesigner.Runtime.g.resources
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\PIDDesigner.Runtime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\PIDDesigner.Runtime.AssemblyInfoInputs.cache
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\PIDDesigner.Runtime.AssemblyInfo.cs
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\PIDDesigner.Runtime.csproj.CoreCompileInputs.cache
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\PIDDesigner.Runtime.dll
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\PIDDesigner.Runtime.pdb
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\PIDViewer.baml
+D:\Tyler\公众号\画图界面\src\PIDDesigner.Runtime\obj\Debug\net48\PIDViewer.g.cs
