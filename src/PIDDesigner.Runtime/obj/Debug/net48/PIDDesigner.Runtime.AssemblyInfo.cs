@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PIDDesigner.Runtime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1.0+3c93c15284139fe3359a97791707c3b860f9a0b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PIDDesigner.Runtime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PIDDesigner.Runtime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]

@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <Resource Include="Resources\pump.png" />
+    <Resource Include="Resources\valve.png" />
   </ItemGroup>
 
 </Project>

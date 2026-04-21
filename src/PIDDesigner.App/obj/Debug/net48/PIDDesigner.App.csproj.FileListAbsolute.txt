@@ -13,6 +13,7 @@ D:\Tyler\公众号\画图界面\src\PIDDesigner.App\obj\Debug\net48\PIDDesigner.
 D:\Tyler\公众号\画图界面\src\PIDDesigner.App\obj\Debug\net48\PIDDesigner.App.AssemblyInfoInputs.cache
 D:\Tyler\公众号\画图界面\src\PIDDesigner.App\obj\Debug\net48\PIDDesigner.App.AssemblyInfo.cs
 D:\Tyler\公众号\画图界面\src\PIDDesigner.App\obj\Debug\net48\PIDDesigner.App.csproj.CoreCompileInputs.cache
+D:\Tyler\公众号\画图界面\src\PIDDesigner.App\obj\Debug\net48\PIDDesigner.App.sourcelink.json
 D:\Tyler\公众号\画图界面\src\PIDDesigner.App\obj\Debug\net48\PIDDesig.E79D17B2.Up2Date
 D:\Tyler\公众号\画图界面\src\PIDDesigner.App\obj\Debug\net48\PIDDesigner.App.exe
 D:\Tyler\公众号\画图界面\src\PIDDesigner.App\obj\Debug\net48\PIDDesigner.App.pdb

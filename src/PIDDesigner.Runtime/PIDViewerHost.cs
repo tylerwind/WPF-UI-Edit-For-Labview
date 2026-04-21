@@ -36,6 +36,14 @@ namespace PIDDesigner.Runtime
             _viewer.UpdateDeviceStates(states);
         }
 
+        /// <summary>
+        /// API for LabVIEW to load a design from XML.
+        /// </summary>
+        public void LoadConfiguration(string xmlPath)
+        {
+            _viewer.ImportConfig(xmlPath);
+        }
+
         // Expose the viewer for more advanced access if needed
         public PIDViewer Viewer => _viewer;
     }
